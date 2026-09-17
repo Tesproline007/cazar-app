@@ -4,9 +4,9 @@
   },
   "dns": {
     "servers": [
-      "https+local://dns.quad9.net/dns-query",
-      "https+local://1.1.1.1/dns-query",
-      "8.8.8.8"
+      "https+local://dns.google/dns-query",
+      "8.8.8.8",
+      "8.8.4.4"
     ]
   },
   "inbounds": [
